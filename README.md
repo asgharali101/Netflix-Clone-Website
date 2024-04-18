@@ -1,7 +1,10 @@
 
 # Getting Started with Your Project
 
-## Welcome to your new project! Follow these simple steps to get started:
+ Welcome to your new project! Follow these simple steps to get started:
+ ```bash
+run following command lines
+```
 
 ## Step 1: Create Your Project
 
