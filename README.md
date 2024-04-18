@@ -2,9 +2,7 @@
 # Getting Started with Your Project
 
  Welcome to your new project! Follow these simple steps to get started:
- ```bash
-run following command lines
-```
+ 
 
 ## Step 1: Create Your Project
 
@@ -44,5 +42,3 @@ That's it! Your development server is up and running. Open your browser and navi
 
 Happy coding!
 ```
-
-This design is more structured and visually appealing, making it easier for developers to understand and follow the instructions.
