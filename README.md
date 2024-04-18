@@ -1,9 +1,7 @@
-Certainly! Here's a more visually appealing and simplified version of the README instructions:
-
 ```
 # Getting Started with Your Project
 
-Welcome to your new project! Follow these simple steps to get started:
+## Welcome to your new project! Follow these simple steps to get started:
 
 ## Step 1: Create Your Project
 
